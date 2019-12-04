@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Name = findViewById(R.id.etName);
-        Password = findViewById(R.id.etPassword);
+        Password = findViewById(R.id.etUserPassword);
         Info = findViewById(R.id.tvInfo);
         Login = findViewById(R.id.btnLogin);
 
